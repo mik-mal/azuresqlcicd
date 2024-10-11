@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/Employee App.sqlproj": {}
+  },
+  "projects": {
+    "/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/Employee App.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/Employee App.sqlproj",
+        "projectName": "Employee App",
+        "projectPath": "/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/Employee App.sqlproj",
+        "packagesPath": "/Users/mikemallen/.nuget/packages/",
+        "outputPath": "/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/mikemallen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

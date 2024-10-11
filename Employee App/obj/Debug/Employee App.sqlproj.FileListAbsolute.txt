@@ -1,0 +1,9 @@
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/bin/Debug/Employee App.dacpac
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/bin/Debug/Employee App.dll
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/bin/Debug/Employee App.pdb
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/Model.xml
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/refactor.xml
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/postdeploy.sql
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/predeploy.sql
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/Employee App.dll
+/Users/mikemallen/Documents/Repos/azuresqlcicd/Employee App/obj/Debug/Employee App.pdb
